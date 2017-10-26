@@ -1,4 +1,4 @@
-![The Close AGN Reference Survey](images/cars.png "The Close AGN Reference Survey")
+[![The Close AGN Reference Survey](images/cars.png "The Close AGN Reference Survey")](http://www.cars-survey.org)
 
 # A tour of CARS MUSE Data Products
 [Dr. Grant Tremblay](http://www.granttremblay.com) | Harvard-Smithsonian Center for Astrophysics | grant.tremblay @ cfa.harvard.edu
